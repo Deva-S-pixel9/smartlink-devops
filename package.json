@@ -1,0 +1,28 @@
+{
+  "name": "smartlink-devops",
+  "version": "1.0.0",
+  "description": "SmartLink-Intelligent URL Shortener with QR codes, Expiring Links, CI/CD Pipeline and Monitoring using AWS, Docker, Jenkins, Prometheus and Grafana.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deva-S-pixel9/smartlink-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Deva-S-pixel9/smartlink-devops/issues"
+  },
+  "homepage": "https://github.com/Deva-S-pixel9/smartlink-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nanoid": "^3.3.11",
+    "prom-client": "^15.1.3",
+    "qrcode": "^1.5.4",
+    "sqlite3": "^5.1.7"
+  }
+}
