@@ -152,19 +152,14 @@ docker run -d -p 3000:3000 smartlink
 ```
 
 ### 🌐 Live Deployment
-```
-http://3.239.36.58:3000
-```
-```
+**→ http://3.239.36.58:3000**
 
 ---
 
 ## ⚙️ CI/CD Pipeline
 
 ### Pipeline Flow
-```
-GitHub Push → Jenkins Webhook → 5-Stage Pipeline → Live Deployment
-```
+**GitHub Push → Jenkins Webhook → 5-Stage Pipeline → Live Deployment**
 
 ### Pipeline Stages
 
