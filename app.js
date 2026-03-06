@@ -1,3 +1,4 @@
+<h1>SmartLink Platform</h1>
 const express  = require('express');
 const sqlite3  = require('sqlite3').verbose();
 const { nanoid } = require('nanoid');
