@@ -253,4 +253,4 @@ GitHub: [@Deva-S-pixel9](https://github.com/Deva-S-pixel9)
 🔗 Repository: [smartlink-devops](https://github.com/Deva-S-pixel9/smartlink-devops)
 
 ---
-<!-- Demo: Live CI/CD Pipeline Trigger -->
+<!-- Demo 2: Live CI/CD Pipeline Trigger -->
